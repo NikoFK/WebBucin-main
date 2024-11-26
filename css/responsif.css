@@ -1,0 +1,14 @@
+/*Author    : Niko Fauza Kurniawan*/
+/*Instagram : https://instagram.com/niko_f_k*/
+
+@media (min-width: 300px) and (max-width: 640px) {
+    .ml1 {
+        margin-top: 45%;
+    }
+
+    .kontener2 {
+        padding: 10px;
+        text-align: center;
+        margin-top: 60%;
+    }
+}
